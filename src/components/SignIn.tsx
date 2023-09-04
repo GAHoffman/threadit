@@ -13,7 +13,7 @@ const SignIn = () => {
         </p>
 
         {/* sign in form - client side component for interactivity */}
-
+        <UserAuthForm />
         {/* end form */}
         <p className="px-8 text-center text-sm text-zinc-700">
           New to Threadit? {"  "}
